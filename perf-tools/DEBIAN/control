@@ -1,0 +1,7 @@
+Package: linux-tools
+Version: 4.19.104-microsoft-standard
+Priority: optional
+Architecture: amd64
+Depends: libunwind-dev (>= 1.2.1), libbabeltrace1 (>= 1.5.5), libbabeltrace-ctf1 (>= 1.5.5), libnuma1 (>= 2.0.11)
+Maintainer: No one
+Description: linux-perf tools for WSL2
