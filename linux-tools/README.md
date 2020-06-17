@@ -6,6 +6,7 @@ I need `perf`
 Hopefully Microsoft will publish this and we don't have to do this ourselves.
 Success will look like deleting this repo.  Versions might need to change.
 
+  1. apt install libbabeltrace-ctf-dev systemtap-sdt-dev libslang2-dev libelf-dev libunwind-dev libdw-dev libiberty-dev
   1. git clone https://github.com/microsoft/WSL2-Linux-Kernel
   1. cd WSL2-Linux-Kernel/tools/perf
   1. make
